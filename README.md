@@ -1,18 +1,21 @@
-Nombres: Jose Luis Masache, Raul Danilo Guevara, Edwin Machado Falconì
-Descripción de los Archivos
+# Trabajo_Herramientas_G6
+Nombres: Jose Luis Masache, Raul Danilo Guevara, Edwin Machado  Falconì
 
-    Restaurant_Scores_-_LIVES_Standard.csv
-        Ubicación: Restaurant_Scores_-_LIVES_Standard.csv
-        Descripción: Contiene los datos de las puntuaciones de los restaurantes en formato CSV.
+## Descripción de los Archivos
 
-    sfscores.sqlite
-        Ubicación: sfscores.sqlite
-        Descripción: Contiene la base de datos SQLite con las puntuaciones de los restaurantes.
+1. **Restaurant_Scores_-_LIVES_Standard.csv**
+   - Ubicación: `Restaurant_Scores_-_LIVES_Standard.csv`
+   - Descripción: Contiene los datos de las puntuaciones de los restaurantes en formato CSV.
 
-    Restaurant.csv
-        Ubicación: Restaurant.csv
-        Descripción: Archivo CSV unificado que combina los datos del archivo CSV y la base de datos SQLite.
+2. **sfscores.sqlite**
+   - Ubicación: `sfscores.sqlite`
+   - Descripción: Contiene la base de datos SQLite con las puntuaciones de los restaurantes.
 
-    Trabajo_final_G6.ipynb
-        Ubicación: Trabajo_final_G6.ipynb
-        Descripción: Notebook de Jupyter que documenta todo el proceso de unificación de datos, análisis, visualización y desarrollo del modelo de inteligencia artificial.
+3. **Restaurant.csv**
+   - Ubicación: `Restaurant.csv`
+   - Descripción: Archivo CSV unificado que combina los datos del archivo CSV y la base de datos SQLite.
+
+4. **Trabajo_final_G6.ipynb**
+   - Ubicación: `Trabajo_final_G6.ipynb`
+   - Descripción: Notebook de Jupyter que documenta todo el proceso de unificación de datos, análisis, visualización y desarrollo del modelo de inteligencia artificial.
+
