@@ -1,4 +1,4 @@
-# Trabajo_Herramientas_G6
+# Trabajo_Herramientas_Grupo6
 Nombres: Jose Luis Masache, Raul Danilo Guevara, Edwin Machado  Falconì
 
 ## Descripción de los Archivos
